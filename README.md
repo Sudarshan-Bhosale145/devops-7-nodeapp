@@ -130,7 +130,7 @@ Click **Add SSH Remote Host** and fill in the following details:
 
 | Field | Value |
 |------|------|
-| **Hostname** | `<LIVE_EC2_PUBLIC_IP>` |
+| **Hostname** | `<LIVE SERVER_EC2_PUBLIC_IP>` |
 | **Port** | `22` |
 | **Credentials** | `ubuntu` |
 
